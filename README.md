@@ -86,6 +86,37 @@
 ## Tools
 
 
+### Machine Learning Frameworks
+
+- [Scikit-learn](https://scikit-learn.org/stable/)
+
+
+### Deep Learning Frameworks
+
+- [Tensorflow](https://www.tensorflow.org)
+- [Keras](https://keras.io)
+- [Trax](https://github.com/google/trax)
+- [PyTorch](https://pytorch.org)
+- [Microsoft Cognitive Toolkit](https://cntk.ai)
+- [Open Neural Network Exchange (ONNX)](https://onnx.ai)
+- [MXNet](https://mxnet.apache.org/)
+
+
+### Computer Vision
+
+- [TorchVision](https://pytorch.org/docs/stable/torchvision/index.html)
+- [OpenCV](https://opencv.org)
+
+
+### Natural Language
+
+- [Natural Language Toolkit (NLTK)](https://www.nltk.org)
+- [spaCy](https://spacy.io)
+- [TorchText](https://pytorch.org/text/)
+- [OpenNLP](https://opennlp.apache.org)
+- [PyTorch-NLP](https://pytorchnlp.readthedocs.io/en/latest/)
+
+
 ---
 
 ## Examples and Tutorials
