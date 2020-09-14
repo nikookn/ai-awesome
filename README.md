@@ -71,7 +71,7 @@
 - [Algorithms of Reinforcement Learning](https://sites.ualberta.ca/~szepesva/rlbook.html) by Csaba Szepesvári
 
 
-### Graphs
+### Graph Representation
 
 - [Graph Representation Learning](https://www.cs.mcgill.ca/~wlh/grl_book/) by William L. Hamilton
 
@@ -114,6 +114,14 @@
 ### Machine Learning
 
 - de Haan et al., [Causal Confusion in Imitation Learning](https://arxiv.org/abs/1905.11979), 2019.
+
+
+### Natural Language
+
+#### Word Representation
+
+- Mikolov et al., [Distributed Representations of Words and Phrases and their Compositionality](https://arxiv.org/abs/1310.4546), 2013.
+- Mikolov et al., [Efficient Estimation of Word Representations in Vector Space](https://arxiv.org/abs/1301.3781), 2013.
 
 
 ### Robotics and Automation
