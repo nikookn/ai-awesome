@@ -2,10 +2,10 @@
 
 - [Courses](#courses)
 - [Books](#books)
+- [Tutorials](#tutorials)
 - [Papers](#papers)
 - [Tools](#tools)
-- [Examples and Tutorials](#examples-and-tutorials)
-- [Applications](#applications)
+
 
 ---
 
@@ -71,6 +71,17 @@
 - [Algorithms of Reinforcement Learning](https://sites.ualberta.ca/~szepesva/rlbook.html) by Csaba Szepesvári
 
 
+### Graphs
+
+- [Graph Representation Learning](https://www.cs.mcgill.ca/~wlh/grl_book/) by William L. Hamilton
+
+
+---
+
+## Tutorials
+
+
+
 ---
 
 ## Papers
@@ -78,9 +89,48 @@
 
 ### Computer Vision and Pattern Recognition
 
+#### Autonomous Driving
+
 - Bojarski et al., [End to End Learning for Self-Driving Cars](https://arxiv.org/abs/1604.07316), 2016.
+
+#### Face Detection and Verification
+
 - Schroff et al., [FaceNet: A Unified Embedding for Face Recognition and Clustering](https://arxiv.org/abs/1503.03832), 2015.
 - Taigman et al., [DeepFace: Closing the Gap to Human-Level Performance in Face Verification](https://www.cs.toronto.edu/~ranzato/publications/taigman_cvpr14.pdf), 2014.
+
+#### Object Detection
+
+- Long et al., [PP-YOLO: An Effective and Efficient Implementation of Object Detector](https://arxiv.org/abs/2007.12099), 2020.
+- Bochkovskiy et al., [YOLOv4: Optimal Speed and Accuracy of Object Detection](https://arxiv.org/abs/2004.10934), 2020.
+- Redmon et al., [YOLOv3: An Incremental Improvement](https://arxiv.org/abs/1804.02767), 2018.
+- Redmon et al., [YOLO9000: Better, Faster, Stronger](https://arxiv.org/abs/1612.08242), 2016.
+- Redmon et al., [You Only Look Once: Unified, Real-Time Object Detection](https://arxiv.org/abs/1506.02640), 2016.
+
+#### Style Transfer
+
+- Karras et al., [Analyzing and Improving the Image Quality of StyleGAN](https://arxiv.org/abs/1912.04958), 2020.
+
+
+### Machine Learning
+
+- de Haan et al., [Causal Confusion in Imitation Learning](https://arxiv.org/abs/1905.11979), 2019.
+
+
+### Robotics and Automation
+
+- Giusti et al., [A Machine Learning Approach to Visual Perception of Forest Trails for Mobile Robots](https://www.zora.uzh.ch/id/eprint/125475/1/RAL16_Giusti.pdf), 2015.
+
+
+### Social and Information Networks
+
+- Liao et al., [Efficient Graph Generation with Graph Recurrent Attention Networks](https://arxiv.org/abs/1910.00760), 2020.
+- Słowik et al., [Towards Graph Representation Learning in Emergent Communication](https://arxiv.org/abs/2001.09063), 2020.
+- You et al., [GraphRNN: Generating Realistic Graphs with Deep Auto-regressive Models](https://arxiv.org/abs/1802.08773), 2018.
+- Hamilton et al., [Representation Learning on Graphs: Methods and Applications](https://arxiv.org/abs/1709.05584), 2018.
+- Grover et al., [node2vec: Scalable Feature Learning for Networks](https://arxiv.org/abs/1607.00653), 2016.
+- Tang et al., [Visualizing Large-scale and High-dimensional Data](https://arxiv.org/abs/1602.00370), 2016.
+- Tang et al., [LINE: Large-scale Information Network Embedding](https://arxiv.org/abs/1503.03578), 2015.
+- Perozzi et al., [DeepWalk: Online Learning of Social Representations](https://arxiv.org/abs/1403.6652), 2014.
 
 
 ---
@@ -123,14 +173,15 @@
 - [PyTorch-NLP](https://pytorchnlp.readthedocs.io/en/latest/)
 
 
----
+### Computation
 
-## Examples and Tutorials
-
-
-
----
-
-## Applications
+- [NumPy](https://numpy.org)
+- [JAX: Autograd and XLA](https://github.com/google/jax)
+- [SciPy](https://www.scipy.org)
 
 
+### Data Analysis, Manipulation and Visualization
+
+- [Pandas](https://pandas.pydata.org)
+- [Matplotlib](https://matplotlib.org)
+- [Seaborn](https://seaborn.pydata.org)
