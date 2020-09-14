@@ -79,6 +79,8 @@
 ### Computer Vision and Pattern Recognition
 
 - Bojarski et al., [End to End Learning for Self-Driving Cars](https://arxiv.org/abs/1604.07316), 2016.
+- Schroff et al., [FaceNet: A Unified Embedding for Face Recognition and Clustering](https://arxiv.org/abs/1503.03832), 2015.
+- Taigman et al., [DeepFace: Closing the Gap to Human-Level Performance in Face Verification](https://www.cs.toronto.edu/~ranzato/publications/taigman_cvpr14.pdf), 2014.
 
 
 ---
@@ -99,7 +101,11 @@
 - [PyTorch](https://pytorch.org)
 - [Microsoft Cognitive Toolkit](https://cntk.ai)
 - [Open Neural Network Exchange (ONNX)](https://onnx.ai)
+- [Caffe](https://caffe.berkeleyvision.org)
 - [MXNet](https://mxnet.apache.org/)
+- [PaddlePaddle](https://github.com/PaddlePaddle/Paddle)
+- [Chainer](https://chainer.org)
+- [Theano](http://deeplearning.net/software/theano/)
 
 
 ### Computer Vision
