@@ -76,6 +76,10 @@
 ## Papers
 
 
+### Computer Vision and Pattern Recognition
+
+- Bojarski et al., [End to End Learning for Self-Driving Cars](https://arxiv.org/abs/1604.07316), 2016.
+
 
 ---
 
