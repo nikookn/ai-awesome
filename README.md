@@ -101,6 +101,7 @@
 #### Object Detection
 
 - Long et al., [PP-YOLO: An Effective and Efficient Implementation of Object Detector](https://arxiv.org/abs/2007.12099), 2020.
+- Wang et al., [Salient Object Detection in the Deep Learning Era: An In-Depth Survey](https://arxiv.org/abs/1904.09146), 2020.
 - Bochkovskiy et al., [YOLOv4: Optimal Speed and Accuracy of Object Detection](https://arxiv.org/abs/2004.10934), 2020.
 - Redmon et al., [YOLOv3: An Incremental Improvement](https://arxiv.org/abs/1804.02767), 2018.
 - Redmon et al., [YOLO9000: Better, Faster, Stronger](https://arxiv.org/abs/1612.08242), 2016.
@@ -169,6 +170,7 @@
 ### Computer Vision
 
 - [TorchVision](https://pytorch.org/docs/stable/torchvision/index.html)
+- [Pillow](https://python-pillow.org)
 - [OpenCV](https://opencv.org)
 
 
