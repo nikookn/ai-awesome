@@ -56,24 +56,24 @@
 
 ### Machine Learning
 
-- [Foundations of Machine Learning](https://cs.nyu.edu/~mohri/mlbook/) by Mehryar Mohri and Afshin Rostamizadeh and Ameet Talwalkar
-- [Automated Machine Learning: Methods, Systems, Challenges](https://www.automl.org/book/)
+- [*Foundations of Machine Learning*](https://cs.nyu.edu/~mohri/mlbook/) by Mehryar Mohri and Afshin Rostamizadeh and Ameet Talwalkar
+- [*Automated Machine Learning: Methods, Systems, Challenges*](https://www.automl.org/book/)
 
 
 ### Deep Learning
 
-- [Deep Learning](http://www.deeplearningbook.org) by Ian Goodfellow and Yoshua Bengio and Aaron Courville
+- [*Deep Learning*](http://www.deeplearningbook.org) by Ian Goodfellow and Yoshua Bengio and Aaron Courville
 
 
 ### Reinforcement Learning
 
-- [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/the-book.html) by Richard S. Sutton and Andrew G. Barto
-- [Algorithms of Reinforcement Learning](https://sites.ualberta.ca/~szepesva/rlbook.html) by Csaba Szepesvári
+- [*Reinforcement Learning: An Introduction*](http://incompleteideas.net/book/the-book.html) by Richard S. Sutton and Andrew G. Barto
+- [*Algorithms of Reinforcement Learning*](https://sites.ualberta.ca/~szepesva/rlbook.html) by Csaba Szepesvári
 
 
 ### Graph Representation
 
-- [Graph Representation Learning](https://www.cs.mcgill.ca/~wlh/grl_book/) by William L. Hamilton
+- [*Graph Representation Learning*](https://www.cs.mcgill.ca/~wlh/grl_book/) by William L. Hamilton
 
 
 ---
@@ -116,6 +116,11 @@
 
 - de Haan et al., [Causal Confusion in Imitation Learning](https://arxiv.org/abs/1905.11979), 2019.
 
+#### Generative Adversarial Networks
+
+- Che et al., [Your GAN is Secretly an Energy-based Model and You Should use Discriminator Driven Latent Sampling](https://arxiv.org/abs/2003.06060), 2020.
+- Arjovsky et al., [Wasserstein GAN](https://arxiv.org/abs/1701.07875), 2017.
+
 
 ### Natural Language
 
@@ -147,12 +152,12 @@
 ## Tools
 
 
-### Machine Learning Frameworks
+### Machine Learning
 
 - [Scikit-learn](https://scikit-learn.org/stable/)
 
 
-### Deep Learning Frameworks
+### Deep Learning
 
 - [Tensorflow](https://www.tensorflow.org)
 - [Keras](https://keras.io)
