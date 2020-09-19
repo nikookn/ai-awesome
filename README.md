@@ -188,6 +188,17 @@
 - [PyTorch-NLP](https://pytorchnlp.readthedocs.io/en/latest/)
 
 
+### Reinforcement Learning
+
+- [OpenAI Gym](http://gym.openai.com)
+- [RLlib](https://docs.ray.io/en/latest/rllib.html)
+- [Keras-RL](https://github.com/keras-rl/keras-rl)
+- [TF-Agents](https://github.com/tensorflow/agents)
+- [ChainerRL](https://github.com/chainer/chainerrl)
+- [RLCard](https://github.com/datamllab/rlcard)
+- [ReAgent](https://github.com/facebookresearch/ReAgent)
+
+
 ### Computation
 
 - [NumPy](https://numpy.org)
