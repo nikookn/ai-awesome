@@ -114,7 +114,9 @@
 
 ### Machine Learning
 
+- Ghosh et al., [Learning to Reach Goals via Iterated Supervised Learning](https://arxiv.org/abs/1912.06088), 2020.
 - de Haan et al., [Causal Confusion in Imitation Learning](https://arxiv.org/abs/1905.11979), 2019.
+- Mnih et al., [Playing Atari with Deep Reinforcement Learning](https://arxiv.org/abs/1312.5602), 2013.
 
 #### Generative Adversarial Networks
 
@@ -132,7 +134,13 @@
 
 ### Robotics and Automation
 
+- Lynch et al., [Learning Latent Plans from Play](https://arxiv.org/abs/1903.01973), 2019.
+- Yu et al., [Unsupervised Visuomotor Control through Distributional Planning Networks](https://arxiv.org/abs/1902.05542), 2019.
+- Kalashnikov et al., [QT-Opt: Scalable Deep Reinforcement Learning for Vision-Based Robotic Manipulation](https://arxiv.org/abs/1806.10293), 2018.
+- Schulman et al., [High-Dimensional Continuous Control Using Generalized Advantage Estimation](https://arxiv.org/abs/1506.02438), 2018.
+- Levine et al., [End-to-End Training of Deep Visuomotor Policies](https://arxiv.org/abs/1504.00702), 2016.
 - Giusti et al., [A Machine Learning Approach to Visual Perception of Forest Trails for Mobile Robots](https://www.zora.uzh.ch/id/eprint/125475/1/RAL16_Giusti.pdf), 2015.
+- Ross et al., [A Reduction of Imitation Learning and Structured Prediction to No-Regret Online Learning](https://arxiv.org/abs/1011.0686), 2011.
 
 
 ### Social and Information Networks
