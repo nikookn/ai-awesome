@@ -89,6 +89,13 @@
 
 ### Computer Vision and Pattern Recognition
 
+- He et al., [Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385), 2015.
+- Simonyan et al., [Very Deep Convolutional Networks for Large-Scale Image Recognition](https://arxiv.org/abs/1409.1556), 2015.
+- Szegedy et al., [Going Deeper with Convolutions](https://arxiv.org/abs/1409.4842), 2014.
+- Lin et al., [Network In Network](https://arxiv.org/abs/1312.4400), 2014.
+- Krizhevsky et al., [ImageNet Classification with Deep Convolutional Neural Networks](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf), 2012.
+- LeCun et al., [Gradient-Based Learning Applied to Document Recognition](http://yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf), 1998.
+
 #### Autonomous Driving
 
 - Bojarski et al., [End to End Learning for Self-Driving Cars](https://arxiv.org/abs/1604.07316), 2016.
