@@ -171,6 +171,7 @@
 ### Machine Learning
 
 - [Scikit-learn](https://scikit-learn.org/stable/)
+- [LightGBM: Light Gradient Boosting Machine](https://github.com/microsoft/LightGBM)
 
 
 ### Deep Learning
