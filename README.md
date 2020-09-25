@@ -199,6 +199,7 @@
 ### Natural Language
 
 - [Natural Language Toolkit (NLTK)](https://www.nltk.org)
+- [Gensim](https://radimrehurek.com/gensim/)
 - [spaCy](https://spacy.io)
 - [TorchText](https://pytorch.org/text/)
 - [OpenNLP](https://opennlp.apache.org)
@@ -226,5 +227,15 @@
 ### Data Analysis, Manipulation and Visualization
 
 - [Pandas](https://pandas.pydata.org)
+- [Pandas Profiling](https://github.com/pandas-profiling/pandas-profiling)
+- [Statsmodels](https://www.statsmodels.org/)
 - [Matplotlib](https://matplotlib.org)
+- [Plotly](https://plotly.com/python/)
 - [Seaborn](https://seaborn.pydata.org)
+- [Bokeh](https://bokeh.org)
+- [Altair](https://altair-viz.github.io)
+
+
+### Misc
+
+- [Scrapy](https://scrapy.org)
