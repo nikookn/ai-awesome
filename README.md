@@ -134,6 +134,9 @@
 
 ### Natural Language
 
+- Lin et al., [ROUGE: A Package for Automatic Evaluation of Summaries](https://www.aclweb.org/anthology/W04-1013/), 2004.
+- Papineni et al., [BLEU: a Method for Automatic Evaluation of Machine Translation](https://www.aclweb.org/anthology/P02-1040/), 2002.
+
 #### Word Representation
 
 - Mikolov et al., [Distributed Representations of Words and Phrases and their Compositionality](https://arxiv.org/abs/1310.4546), 2013.
@@ -204,6 +207,7 @@
 - [TorchText](https://pytorch.org/text/)
 - [OpenNLP](https://opennlp.apache.org)
 - [PyTorch-NLP](https://pytorchnlp.readthedocs.io/en/latest/)
+- [SacreBLEU](https://github.com/mjpost/sacrebleu)
 
 
 ### Reinforcement Learning
