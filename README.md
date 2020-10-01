@@ -28,17 +28,22 @@
 - Stanford: Deep Learning (Autumn 2018) [[Website](http://cs230.stanford.edu) | [Youtube](https://www.youtube.com/playlist?list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb)]
 - Berkeley: Deep Unsupervised Learning (Spring 2020) [[Website](https://sites.google.com/view/berkeley-cs294-158-sp20/home) | [Youtube](https://www.youtube.com/playlist?list=PLwRJQ4m4UJjPiJP3691u-qWwPGVKzSlNP)]
 - MIT: Introduction to Deep Learning (Winter 2020) [[Website](http://introtodeeplearning.com) | [Youtube](https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)]
+- Deeplearning.AI: Neural Networks and Deep Learning (Course 1 of the Deep Learning Specialization) [[Website](https://www.coursera.org/learn/neural-networks-deep-learning?specialization=deep-learning) | [Youtube](https://www.youtube.com/playlist?list=PLkDaE6sCZn6Ec-XTbcX1uRg2_u4xOEky0)]
+- Deeplearning.AI: Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization (Course 2 of the Deep Learning Specialization) [[Website](https://www.coursera.org/learn/deep-neural-network?specialization=deep-learning) | [Youtube](https://www.youtube.com/playlist?list=PLkDaE6sCZn6Hn0vK8co82zjQtt3T2Nkqc)]
+- Deeplearning.AI: Structuring Machine Learning Projects (Course 3 of the Deep Learning Specialization) [[Website](https://www.coursera.org/learn/machine-learning-projects?specialization=deep-learning) | [Youtube](https://www.youtube.com/playlist?list=PLkDaE6sCZn6E7jZ9sN_xHwSHOdjUxUW_b)]
 
 
 ### Computer Vision
 
 - Stanford: Convolutional Neural Networks for Visual Recognition (Spring 2017) [[Website](http://cs231n.stanford.edu/2017/) | [Youtube](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)]
+- Deeplearning.AI: Convolutional Neural Networks (Course 4 of the Deep Learning Specialization) [[Website](https://www.coursera.org/learn/convolutional-neural-networks?specialization=deep-learning) | [Youtube](https://www.youtube.com/playlist?list=PLkDaE6sCZn6Gl29AoE31iwdVwSG-KnDzF)]
 
 
 ### Natural Language Processing
 
 - Stanford: Natural Language Processing with Deep Learning (Winter 2019) [[Website](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/) | [Youtube](https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)]
 - Stanford: Natural Language Understanding (Spring 2019) [[Website](http://web.stanford.edu/class/cs224u/2019/) | [Youtube](https://www.youtube.com/playlist?list=PLoROMvodv4rObpMCir6rNNUlFAn56Js20)]
+- Deeplearning.AI: Sequence Models (Course 5 of the Deep Learning Specialization) [[Website](https://www.coursera.org/learn/nlp-sequence-models) | [Youtube](https://www.youtube.com/playlist?list=PLkDaE6sCZn6F6wUI9tvS_Gw1vaFAx6rd6)]
 
 
 ### Reinforcement Learning
