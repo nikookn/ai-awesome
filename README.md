@@ -5,6 +5,7 @@
 - [Tutorials](#tutorials)
 - [Papers](#papers)
 - [Tools](#tools)
+- [Datasets](#datasets)
 
 
 ---
@@ -123,6 +124,7 @@
 #### Style Transfer
 
 - Karras et al., [Analyzing and Improving the Image Quality of StyleGAN](https://arxiv.org/abs/1912.04958), 2020.
+- Johnson et al., [Perceptual Losses for Real-Time Style Transfer and Super-Resolution](https://arxiv.org/abs/1603.08155), 2016.
 
 
 ### Machine Learning
@@ -248,3 +250,23 @@
 ### Misc
 
 - [Scrapy](https://scrapy.org)
+
+
+---
+
+## Datasets
+
+
+### Computer Vision
+
+- [ImageNet](http://www.image-net.org)
+- [COCO](https://cocodataset.org/)
+- [CIFAR-10 and CIFAR-100](https://www.cs.toronto.edu/~kriz/cifar.html)
+- [Fashion-MNIST](https://github.com/zalandoresearch/fashion-mnist)
+- [MNIST](http://yann.lecun.com/exdb/mnist/)
+
+
+### Natural Language Processing
+
+- [WordNet](https://wordnet.princeton.edu)
+- [ParaCrawl](https://paracrawl.eu)
