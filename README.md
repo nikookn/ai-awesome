@@ -96,6 +96,7 @@
 
 ### Computer Vision and Pattern Recognition
 
+- Huang et al., [Densely Connected Convolutional Networks](https://arxiv.org/abs/1608.06993), 2018.
 - He et al., [Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385), 2015.
 - Simonyan et al., [Very Deep Convolutional Networks for Large-Scale Image Recognition](https://arxiv.org/abs/1409.1556), 2015.
 - Szegedy et al., [Going Deeper with Convolutions](https://arxiv.org/abs/1409.4842), 2014.
