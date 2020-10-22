@@ -50,6 +50,7 @@
 ### Reinforcement Learning
 
 - Stanford: Reinforcement Learning (Winter 2019) [[Website](http://web.stanford.edu/class/cs234/CS234Win2019/index.html) | [Youtube](https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u)]
+- Berkeley: Deep Reinforcement Learning (Fall 2020) [[Website](http://rail.eecs.berkeley.edu/deeprlcourse/) | [Youtube](https://www.youtube.com/playlist?list=PL_iWQOsE6TfURIIhCrlt-wj9ByIVpbfGc)]
 - Berkeley: Deep Reinforcement Learning (Fall 2019) [[Website](http://rail.eecs.berkeley.edu/deeprlcourse-fa19/) | [Youtube](https://www.youtube.com/playlist?list=PLkFD6_40KJIwhWJpGazJ9VSj9CFMkb79A)]
 - Stanford: Deep Multi-Task and Meta Learning (Fall 2019) [[Website](http://cs330.stanford.edu/fall2019/index.html) | [Youtube](https://www.youtube.com/playlist?list=PLoROMvodv4rMC6zfYmnD7UG3LVvwaITY5)]
 - DeepMind: Advanced Deep Learning and Reinforcement Learning (Winter 2018) [[Website](https://github.com/enggen/DeepMind-Advanced-Deep-Learning-and-Reinforcement-Learning) | [Youtube](https://www.youtube.com/playlist?list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs)]
@@ -130,9 +131,6 @@
 
 ### Machine Learning
 
-- Ghosh et al., [Learning to Reach Goals via Iterated Supervised Learning](https://arxiv.org/abs/1912.06088), 2020.
-- de Haan et al., [Causal Confusion in Imitation Learning](https://arxiv.org/abs/1905.11979), 2019.
-- Mnih et al., [Playing Atari with Deep Reinforcement Learning](https://arxiv.org/abs/1312.5602), 2013.
 
 #### Generative Adversarial Networks
 
@@ -150,6 +148,20 @@
 
 - Mikolov et al., [Distributed Representations of Words and Phrases and their Compositionality](https://arxiv.org/abs/1310.4546), 2013.
 - Mikolov et al., [Efficient Estimation of Word Representations in Vector Space](https://arxiv.org/abs/1301.3781), 2013.
+
+
+### Reinforcement Learning
+
+- Ghosh et al., [Learning to Reach Goals via Iterated Supervised Learning](https://arxiv.org/abs/1912.06088), 2020.
+- de Haan et al., [Causal Confusion in Imitation Learning](https://arxiv.org/abs/1905.11979), 2019.
+- Mnih et al., [Playing Atari with Deep Reinforcement Learning](https://arxiv.org/abs/1312.5602), 2013.
+
+#### Actor-Critic
+
+- Schulman et al., [High-Dimensional Continuous Control Using Generalized Advantage Estimation](https://arxiv.org/abs/1506.02438), 2018.
+- Gu et al., [Q-Prop: Sample-Efficient Policy Gradient with An Off-Policy Critic](https://arxiv.org/abs/1611.02247), 2017.
+- Mnih et al., [Asynchronous Methods for Deep Reinforcement Learning](https://arxiv.org/abs/1602.01783), 2016.
+- Sutton et  al., [Policy Gradient Methods for Reinforcement Learning with Function Approximation](https://homes.cs.washington.edu/~todorov/courses/amath579/reading/PolicyGradient.pdf), 2000.
 
 
 ### Robotics and Automation
