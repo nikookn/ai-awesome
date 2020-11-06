@@ -105,10 +105,6 @@
 - Krizhevsky et al., [ImageNet Classification with Deep Convolutional Neural Networks](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf), 2012.
 - LeCun et al., [Gradient-Based Learning Applied to Document Recognition](http://yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf), 1998.
 
-#### Autonomous Driving
-
-- Bojarski et al., [End to End Learning for Self-Driving Cars](https://arxiv.org/abs/1604.07316), 2016.
-
 #### Face Detection and Verification
 
 - Schroff et al., [FaceNet: A Unified Embedding for Face Recognition and Clustering](https://arxiv.org/abs/1503.03832), 2015.
@@ -127,10 +123,6 @@
 
 - Karras et al., [Analyzing and Improving the Image Quality of StyleGAN](https://arxiv.org/abs/1912.04958), 2020.
 - Johnson et al., [Perceptual Losses for Real-Time Style Transfer and Super-Resolution](https://arxiv.org/abs/1603.08155), 2016.
-
-
-### Machine Learning
-
 
 #### Generative Adversarial Networks
 
@@ -153,8 +145,16 @@
 ### Reinforcement Learning
 
 - Ghosh et al., [Learning to Reach Goals via Iterated Supervised Learning](https://arxiv.org/abs/1912.06088), 2020.
+- Lynch et al., [Learning Latent Plans from Play](https://arxiv.org/abs/1903.01973), 2019.
+- Yu et al., [Unsupervised Visuomotor Control through Distributional Planning Networks](https://arxiv.org/abs/1902.05542), 2019.
 - de Haan et al., [Causal Confusion in Imitation Learning](https://arxiv.org/abs/1905.11979), 2019.
+- Kalashnikov et al., [QT-Opt: Scalable Deep Reinforcement Learning for Vision-Based Robotic Manipulation](https://arxiv.org/abs/1806.10293), 2018.
+- Schulman et al., [High-Dimensional Continuous Control Using Generalized Advantage Estimation](https://arxiv.org/abs/1506.02438), 2018.
+- Bojarski et al., [End to End Learning for Self-Driving Cars](https://arxiv.org/abs/1604.07316), 2016.
+- Levine et al., [End-to-End Training of Deep Visuomotor Policies](https://arxiv.org/abs/1504.00702), 2016.
+- Giusti et al., [A Machine Learning Approach to Visual Perception of Forest Trails for Mobile Robots](https://www.zora.uzh.ch/id/eprint/125475/1/RAL16_Giusti.pdf), 2015.
 - Mnih et al., [Playing Atari with Deep Reinforcement Learning](https://arxiv.org/abs/1312.5602), 2013.
+- Ross et al., [A Reduction of Imitation Learning and Structured Prediction to No-Regret Online Learning](https://arxiv.org/abs/1011.0686), 2011.
 
 #### Actor-Critic
 
@@ -163,16 +163,10 @@
 - Mnih et al., [Asynchronous Methods for Deep Reinforcement Learning](https://arxiv.org/abs/1602.01783), 2016.
 - Sutton et  al., [Policy Gradient Methods for Reinforcement Learning with Function Approximation](https://homes.cs.washington.edu/~todorov/courses/amath579/reading/PolicyGradient.pdf), 2000.
 
+#### Transfer Learning
 
-### Robotics and Automation
-
-- Lynch et al., [Learning Latent Plans from Play](https://arxiv.org/abs/1903.01973), 2019.
-- Yu et al., [Unsupervised Visuomotor Control through Distributional Planning Networks](https://arxiv.org/abs/1902.05542), 2019.
-- Kalashnikov et al., [QT-Opt: Scalable Deep Reinforcement Learning for Vision-Based Robotic Manipulation](https://arxiv.org/abs/1806.10293), 2018.
-- Schulman et al., [High-Dimensional Continuous Control Using Generalized Advantage Estimation](https://arxiv.org/abs/1506.02438), 2018.
-- Levine et al., [End-to-End Training of Deep Visuomotor Policies](https://arxiv.org/abs/1504.00702), 2016.
-- Giusti et al., [A Machine Learning Approach to Visual Perception of Forest Trails for Mobile Robots](https://www.zora.uzh.ch/id/eprint/125475/1/RAL16_Giusti.pdf), 2015.
-- Ross et al., [A Reduction of Imitation Learning and Structured Prediction to No-Regret Online Learning](https://arxiv.org/abs/1011.0686), 2011.
+- Zhu et al., [Transfer Learning in Deep Reinforcement Learning: A Survey](https://arxiv.org/abs/2009.07888), 2020.
+- Da Silva et al., [A Survey on Transfer Learning for Multiagent Reinforcement Learning Systems](https://www.jair.org/index.php/jair/article/view/11396), 2019.
 
 
 ### Social and Information Networks
