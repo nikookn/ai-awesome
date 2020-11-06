@@ -130,6 +130,13 @@
 - Arjovsky et al., [Wasserstein GAN](https://arxiv.org/abs/1701.07875), 2017.
 
 
+### Machine Learning
+
+- Li et al., [Federated Learning: Challenges, Methods, and Future Directions](https://arxiv.org/abs/1908.07873), 2019.
+- Bonawitz et al., [Towards Federated Learning at Scale: System Design](https://arxiv.org/abs/1902.01046), 2019.
+- Yang et al., [Federated Machine Learning: Concept and Applications](https://arxiv.org/abs/1902.04885), 2019.
+
+
 ### Natural Language
 
 - Budzianowski et al., [MultiWOZ -- A Large-Scale Multi-Domain Wizard-of-Oz Dataset for Task-Oriented Dialogue Modelling](https://arxiv.org/abs/1810.00278), 2020.
