@@ -15,45 +15,44 @@
 
 ### Artificial Intelligence
 
-- Stanford: Artificial Intelligence: Principles and Techniques (Autumn 2019) [[Website](https://stanford-cs221.github.io/autumn2019/) | [Youtube](https://www.youtube.com/playlist?list=PLoROMvodv4rO1NB9TD4iUZ3qghGEGtqNX)]
+- Stanford: Artificial Intelligence: Principles and Techniques ([CS221](https://web.stanford.edu/class/cs221/)) [Autumn 2019: [Website](https://stanford-cs221.github.io/autumn2019/), [Youtube](https://www.youtube.com/playlist?list=PLoROMvodv4rO1NB9TD4iUZ3qghGEGtqNX)]
 
 
 ### Machine Learning
 
-- Stanford: Machine Learning (Autumn 2018) [[Website](http://cs229.stanford.edu/syllabus-autumn2018.html) | [Youtube](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)]
-- Stanford: Machine Learning with Graphs (Fall 2018) [[Website](http://snap.stanford.edu/class/cs224w-2018/) | [Videos](http://snap.stanford.edu/class/cs224w-videos-2018/)]
+- Stanford: Machine Learning ([CS229](http://cs229.stanford.edu/)) [Autumn 2018: [Website](http://cs229.stanford.edu/syllabus-autumn2018.html), [Youtube](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)]
+- Stanford: Machine Learning with Graphs ([CS224W](http://web.stanford.edu/class/cs224w/)) [Fall 2018: [Website](http://snap.stanford.edu/class/cs224w-2018/), [Videos](http://snap.stanford.edu/class/cs224w-videos-2018/)]
 
 
 ### Deep Learning
 
-- Stanford: Deep Learning (Autumn 2018) [[Website](http://cs230.stanford.edu) | [Youtube](https://www.youtube.com/playlist?list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb)]
-- Berkeley: Deep Unsupervised Learning (Spring 2020) [[Website](https://sites.google.com/view/berkeley-cs294-158-sp20/home) | [Youtube](https://www.youtube.com/playlist?list=PLwRJQ4m4UJjPiJP3691u-qWwPGVKzSlNP)]
-- MIT: Introduction to Deep Learning (Winter 2020) [[Website](http://introtodeeplearning.com) | [Youtube](https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)]
-- Deeplearning.AI: Neural Networks and Deep Learning (Course 1 of the Deep Learning Specialization) [[Website](https://www.coursera.org/learn/neural-networks-deep-learning?specialization=deep-learning) | [Youtube](https://www.youtube.com/playlist?list=PLkDaE6sCZn6Ec-XTbcX1uRg2_u4xOEky0)]
-- Deeplearning.AI: Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization (Course 2 of the Deep Learning Specialization) [[Website](https://www.coursera.org/learn/deep-neural-network?specialization=deep-learning) | [Youtube](https://www.youtube.com/playlist?list=PLkDaE6sCZn6Hn0vK8co82zjQtt3T2Nkqc)]
-- Deeplearning.AI: Structuring Machine Learning Projects (Course 3 of the Deep Learning Specialization) [[Website](https://www.coursera.org/learn/machine-learning-projects?specialization=deep-learning) | [Youtube](https://www.youtube.com/playlist?list=PLkDaE6sCZn6E7jZ9sN_xHwSHOdjUxUW_b)]
+- Stanford: Deep Learning ([CS230](http://cs230.stanford.edu)) [Autumn 2018: [Website](http://cs230.stanford.edu), [Youtube](https://www.youtube.com/playlist?list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb)]
+- Stanford: Deep Multi-Task and Meta Learning ([CS330](http://cs330.stanford.edu/)) [Fall 2019: [Website](http://cs330.stanford.edu/fall2019/index.html), [Youtube](https://www.youtube.com/playlist?list=PLoROMvodv4rMC6zfYmnD7UG3LVvwaITY5)]
+- UC Berkeley: Deep Unsupervised Learning () [Spring 2020: [Website](https://sites.google.com/view/berkeley-cs294-158-sp20/home), [Youtube](https://www.youtube.com/playlist?list=PLwRJQ4m4UJjPiJP3691u-qWwPGVKzSlNP)]
+- MIT: Introduction to Deep Learning ([6.S191](http://introtodeeplearning.com)) [Winter 2020: [Website](http://introtodeeplearning.com/2020/index.html), [Youtube](https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)]
+- Deeplearning.AI: Neural Networks and Deep Learning (Course 1 of the Deep Learning Specialization) [Summer 2017: [Website](https://www.coursera.org/learn/neural-networks-deep-learning?specialization=deep-learning), [Youtube](https://www.youtube.com/playlist?list=PLkDaE6sCZn6Ec-XTbcX1uRg2_u4xOEky0)]
+- Deeplearning.AI: Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization (Course 2 of the Deep Learning Specialization) [Summer 2017: [Website](https://www.coursera.org/learn/deep-neural-network?specialization=deep-learning), [Youtube](https://www.youtube.com/playlist?list=PLkDaE6sCZn6Hn0vK8co82zjQtt3T2Nkqc)]
+- Deeplearning.AI: Structuring Machine Learning Projects (Course 3 of the Deep Learning Specialization) [Summer 2017: [Website](https://www.coursera.org/learn/machine-learning-projects?specialization=deep-learning), [Youtube](https://www.youtube.com/playlist?list=PLkDaE6sCZn6E7jZ9sN_xHwSHOdjUxUW_b)]
 
 
 ### Computer Vision
 
-- Stanford: Convolutional Neural Networks for Visual Recognition (Spring 2017) [[Website](http://cs231n.stanford.edu/2017/) | [Youtube](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)]
-- Deeplearning.AI: Convolutional Neural Networks (Course 4 of the Deep Learning Specialization) [[Website](https://www.coursera.org/learn/convolutional-neural-networks?specialization=deep-learning) | [Youtube](https://www.youtube.com/playlist?list=PLkDaE6sCZn6Gl29AoE31iwdVwSG-KnDzF)]
+- Stanford: Convolutional Neural Networks for Visual Recognition ([CS231N](http://cs231n.stanford.edu)) [Spring 2017: [Website](http://cs231n.stanford.edu/2017/), [Youtube](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)]
+- Deeplearning.AI: Convolutional Neural Networks (Course 4 of the Deep Learning Specialization) [Fall 2017: [Website](https://www.coursera.org/learn/convolutional-neural-networks?specialization=deep-learning), [Youtube](https://www.youtube.com/playlist?list=PLkDaE6sCZn6Gl29AoE31iwdVwSG-KnDzF)]
 
 
 ### Natural Language Processing
 
-- Stanford: Natural Language Processing with Deep Learning (Winter 2019) [[Website](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/) | [Youtube](https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)]
-- Stanford: Natural Language Understanding (Spring 2019) [[Website](http://web.stanford.edu/class/cs224u/2019/) | [Youtube](https://www.youtube.com/playlist?list=PLoROMvodv4rObpMCir6rNNUlFAn56Js20)]
-- Deeplearning.AI: Sequence Models (Course 5 of the Deep Learning Specialization) [[Website](https://www.coursera.org/learn/nlp-sequence-models) | [Youtube](https://www.youtube.com/playlist?list=PLkDaE6sCZn6F6wUI9tvS_Gw1vaFAx6rd6)]
+- Stanford: Natural Language Processing with Deep Learning ([CS224N](https://web.stanford.edu/class/cs224n/)) [Winter 2019: [Website](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/), [Youtube](https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)]
+- Stanford: Natural Language Understanding ([CS224U](http://web.stanford.edu/class/cs224u)) [Spring 2019: [Website](http://web.stanford.edu/class/cs224u/2019/), [Youtube](https://www.youtube.com/playlist?list=PLoROMvodv4rObpMCir6rNNUlFAn56Js20)]
+- Deeplearning.AI: Sequence Models (Course 5 of the Deep Learning Specialization) [Winter 2018: [Website](https://www.coursera.org/learn/nlp-sequence-models), [Youtube](https://www.youtube.com/playlist?list=PLkDaE6sCZn6F6wUI9tvS_Gw1vaFAx6rd6)]
 
 
 ### Reinforcement Learning
 
-- Stanford: Reinforcement Learning (Winter 2019) [[Website](http://web.stanford.edu/class/cs234/CS234Win2019/index.html) | [Youtube](https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u)]
-- Berkeley: Deep Reinforcement Learning (Fall 2020) [[Website](http://rail.eecs.berkeley.edu/deeprlcourse/) | [Youtube](https://www.youtube.com/playlist?list=PL_iWQOsE6TfURIIhCrlt-wj9ByIVpbfGc)]
-- Berkeley: Deep Reinforcement Learning (Fall 2019) [[Website](http://rail.eecs.berkeley.edu/deeprlcourse-fa19/) | [Youtube](https://www.youtube.com/playlist?list=PLkFD6_40KJIwhWJpGazJ9VSj9CFMkb79A)]
-- Stanford: Deep Multi-Task and Meta Learning (Fall 2019) [[Website](http://cs330.stanford.edu/fall2019/index.html) | [Youtube](https://www.youtube.com/playlist?list=PLoROMvodv4rMC6zfYmnD7UG3LVvwaITY5)]
-- DeepMind: Advanced Deep Learning and Reinforcement Learning (Winter 2018) [[Website](https://github.com/enggen/DeepMind-Advanced-Deep-Learning-and-Reinforcement-Learning) | [Youtube](https://www.youtube.com/playlist?list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs)]
+- Stanford: Reinforcement Learning ([CS234](http://web.stanford.edu/class/cs234)) [Winter 2019: [Website](http://web.stanford.edu/class/cs234/CS234Win2019/index.html), [Youtube](https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u)]
+- UC Berkeley: Deep Reinforcement Learning ([CS285](http://rail.eecs.berkeley.edu/deeprlcourse/)) [Fall 2020: [Website](http://rail.eecs.berkeley.edu/deeprlcourse/), [Youtube](https://www.youtube.com/playlist?list=PL_iWQOsE6TfURIIhCrlt-wj9ByIVpbfGc) | Fall 2019: [Website](http://rail.eecs.berkeley.edu/deeprlcourse-fa19/), [Youtube](https://www.youtube.com/playlist?list=PLkFD6_40KJIwhWJpGazJ9VSj9CFMkb79A)]
+- DeepMind: Advanced Deep Learning and Reinforcement Learning [Winter 2018: [Website](https://github.com/enggen/DeepMind-Advanced-Deep-Learning-and-Reinforcement-Learning), [Youtube](https://www.youtube.com/playlist?list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs)]
 
 
 ---
