@@ -275,6 +275,7 @@
 
 - [ImageNet](http://www.image-net.org)
 - [COCO](https://cocodataset.org/)
+- [Open Images](https://storage.googleapis.com/openimages/web/index.html)
 - [CIFAR-10 and CIFAR-100](https://www.cs.toronto.edu/~kriz/cifar.html)
 - [Fashion-MNIST](https://github.com/zalandoresearch/fashion-mnist)
 - [MNIST](http://yann.lecun.com/exdb/mnist/)
